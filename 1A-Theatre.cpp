@@ -11,3 +11,4 @@ int main(){
     return 0;
 }
 
+// Logic: n, m, a are given in the test cases so we just need to divide a with m and n separately and then just multiply the final m and n..

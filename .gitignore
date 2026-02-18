@@ -1,0 +1,15 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore compiled binaries and output folders
+*.bin
+*.out
+*.exe
+*.dSYM/
+output/
+*.plist
+*.yml
+
+# Ignore competitive programming tool folders
+.cph/
+.vscode/
