@@ -8,8 +8,8 @@ int main() {
 
     int years = 0;
     while (a <= b) {
-        a *= 3;  // Limak's weight triples
-        b *= 2;  // Bob's weight doubles
+        a *= 3;
+        b *= 2;
         years++;
     }
 
