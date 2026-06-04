@@ -1,3 +1,4 @@
+# Football Rating (900)
 def solve():
     s = input()
     if "0000000" in s or "1111111" in s:
