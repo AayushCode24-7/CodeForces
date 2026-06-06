@@ -14,7 +14,7 @@ int main() {
         int petya, vasya, tonya;
         cin >> petya >> vasya >> tonya;
         
-        // Check if at least two friends are confident
+
         if (petya + vasya + tonya >= 2) {
             solved_count++;
         }
